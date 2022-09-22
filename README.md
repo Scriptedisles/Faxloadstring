@@ -20,8 +20,7 @@ CxldBreeze#7294
 Prison Life - Prison Life is an easily exploitable game so it makes sense we have a script for it. 
 Link: https://www.roblox.com/games/155615604/Prison-Life-Cars-fixed
 
-Aegis Day of Dusk - I am looking for more scripters to help with this project
-Link: https://www.roblox.com/games/1927139201/Day-of-Dusk-The-Border-Beta
+
 
 
 # Future Game Support 
